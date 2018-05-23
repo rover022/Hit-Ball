@@ -1,0 +1,466 @@
+{
+	"groups": [
+		{
+			"keys": "bg_jpg,egret_icon_png,description_json,ballScelectScene_png,ballSceneBlind_png,popupTutirialQuest_png,upgradeArrowAnim_png,defaultNotice_jpg,fantasticWispPopupImage_png,FantasticWisp_png,popupWarp_png,gachaReward_png,pointerAnim_png,beam_png,laserShield_png,blackHole_png,countinue_png,eventSale_png,bossCloudAnim_png,bossProfile_png,balloon_tail_LB_png,balloon_LB_png,popupLanguage_png,coinAnim_png,fantastic_grass_png,noticePopup_png,purpleBombAnim_png,inGameNewUI_png,shootingStarAnim_png,noneBossBlock_png,iconBuffAnim_png,buffAnim_png,rightStarAnim_png,leftStarAnim_png,flowerRightAnim_png,upgradeAnim_png,flowerLeftAnim_png,reflectBossBlock_png,mummyBossBlock_png,frontEvolAnim_5_png,frontEvolAnim_3_png,frontEvolAnim_2_png,backEvolAnim_5_png,backEvolAnim_4_png,backEvolAnim_3_png,backEvolAnim_2_png,frontEvolAnim_1_png,backEvolAnim_1_png,bombBlockNumLine_png,animWarp_png,blockDieExplosionEffect_png,dieEffect_png,rankingPopup_png,IronBossBlock_png,GGEATextAnim_png,bossCommon_png,default_photo_png,ghostBossBlock_png,skipEffect_png,slimeBossBlock_png,bossLine_png,bombEffectAnim_png,skilIconSprite_png,returnBall_png,list_shadow_png,tutorialImage_png,newRecordAnim_png,tutorialHand_png,thunderAnim_png,ball_png,fantastic_text_png,fantastic_dino_right_png,fantastic_dino_left_png,popup_png,ballItemAnim_png,blockExplosionEffect_png,effectCollide_png,vThunderAnim_png,hThunderAnim_png,dino_png,basic_guide_dot_png,arrow_dot04_png,arrow_dot03_png,arrow_dot02_png,arrow_dot01_png,effectApocalypse_png,balloon_png,block_png,inGameUI_png,popupShop_png,shareResource_png,default_stic_png,default_panta_png,default_ahua_png",
+			"name": "preload"
+		}
+	],
+	"resources": [
+
+		{
+			"name": "ballScelectScene_png",
+			"type": "image",
+			"url": "assets/ballScelectScene.png"
+		},
+		{
+			"name": "ballSceneBlind_png",
+			"type": "image",
+			"url": "assets/ballSceneBlind.png"
+		},
+		{
+			"name": "popupTutirialQuest_png",
+			"type": "image",
+			"url": "assets/popupTutirialQuest.png"
+		},
+		{
+			"name": "upgradeArrowAnim_png",
+			"type": "image",
+			"url": "assets/upgradeArrowAnim.png"
+		},
+		{
+			"name": "defaultNotice_jpg",
+			"type": "image",
+			"url": "assets/defaultNotice.jpg"
+		},
+		{
+			"name": "fantasticWispPopupImage_png",
+			"type": "image",
+			"url": "assets/fantasticWispPopupImage.png"
+		},
+		{
+			"name": "FantasticWisp_png",
+			"type": "image",
+			"url": "assets/FantasticWisp.png"
+		},
+		{
+			"name": "popupWarp_png",
+			"type": "image",
+			"url": "assets/popupWarp.png"
+		},
+		{
+			"name": "gachaReward_png",
+			"type": "image",
+			"url": "assets/gachaReward.png"
+		},
+		{
+			"name": "pointerAnim_png",
+			"type": "image",
+			"url": "assets/pointerAnim.png"
+		},
+		{
+			"name": "beam_png",
+			"type": "image",
+			"url": "assets/beam.png"
+		},
+		{
+			"name": "laserShield_png",
+			"type": "image",
+			"url": "assets/laserShield.png"
+		},
+		{
+			"name": "blackHole_png",
+			"type": "image",
+			"url": "assets/blackHole.png"
+		},
+		{
+			"name": "countinue_png",
+			"type": "image",
+			"url": "assets/countinue.png"
+		},
+		{
+			"name": "eventSale_png",
+			"type": "image",
+			"url": "assets/eventSale.png"
+		},
+		{
+			"name": "bossCloudAnim_png",
+			"type": "image",
+			"url": "assets/bossCloudAnim.png"
+		},
+		{
+			"name": "bossProfile_png",
+			"type": "image",
+			"url": "assets/bossProfile.png"
+		},
+		{
+			"name": "balloon_tail_LB_png",
+			"type": "image",
+			"url": "assets/balloon_tail_LB.png"
+		},
+		{
+			"name": "balloon_LB_png",
+			"type": "image",
+			"url": "assets/balloon_LB.png"
+		},
+		{
+			"name": "popupLanguage_png",
+			"type": "image",
+			"url": "assets/popupLanguage.png"
+		},
+		{
+			"name": "coinAnim_png",
+			"type": "image",
+			"url": "assets/coinAnim.png"
+		},
+		{
+			"name": "fantastic_grass_png",
+			"type": "image",
+			"url": "assets/fantastic_grass.png"
+		},
+		{
+			"name": "noticePopup_png",
+			"type": "image",
+			"url": "assets/noticePopup.png"
+		},
+		{
+			"name": "purpleBombAnim_png",
+			"type": "image",
+			"url": "assets/purpleBombAnim.png"
+		},
+		{
+			"name": "inGameNewUI_png",
+			"type": "image",
+			"url": "assets/inGameNewUI.png"
+		},
+		{
+			"name": "shootingStarAnim_png",
+			"type": "image",
+			"url": "assets/shootingStarAnim.png"
+		},
+		{
+			"name": "noneBossBlock_png",
+			"type": "image",
+			"url": "assets/noneBossBlock.png"
+		},
+		{
+			"name": "iconBuffAnim_png",
+			"type": "image",
+			"url": "assets/iconBuffAnim.png"
+		},
+		{
+			"name": "buffAnim_png",
+			"type": "image",
+			"url": "assets/buffAnim.png"
+		},
+		{
+			"name": "rightStarAnim_png",
+			"type": "image",
+			"url": "assets/rightStarAnim.png"
+		},
+		{
+			"name": "leftStarAnim_png",
+			"type": "image",
+			"url": "assets/leftStarAnim.png"
+		},
+		{
+			"name": "flowerRightAnim_png",
+			"type": "image",
+			"url": "assets/flowerRightAnim.png"
+		},
+		{
+			"name": "upgradeAnim_png",
+			"type": "image",
+			"url": "assets/upgradeAnim.png"
+		},
+		{
+			"name": "flowerLeftAnim_png",
+			"type": "image",
+			"url": "assets/flowerLeftAnim.png"
+		},
+		{
+			"name": "reflectBossBlock_png",
+			"type": "image",
+			"url": "assets/reflectBossBlock.png"
+		},
+		{
+			"name": "mummyBossBlock_png",
+			"type": "image",
+			"url": "assets/mummyBossBlock.png"
+		},
+		{
+			"name": "frontEvolAnim_5_png",
+			"type": "image",
+			"url": "assets/frontEvolAnim_5.png"
+		},
+		{
+			"name": "frontEvolAnim_3_png",
+			"type": "image",
+			"url": "assets/frontEvolAnim_3.png"
+		},
+		{
+			"name": "frontEvolAnim_2_png",
+			"type": "image",
+			"url": "assets/frontEvolAnim_2.png"
+		},
+		{
+			"name": "backEvolAnim_5_png",
+			"type": "image",
+			"url": "assets/backEvolAnim_5.png"
+		},
+		{
+			"name": "backEvolAnim_4_png",
+			"type": "image",
+			"url": "assets/backEvolAnim_4.png"
+		},
+		{
+			"name": "backEvolAnim_3_png",
+			"type": "image",
+			"url": "assets/backEvolAnim_3.png"
+		},
+		{
+			"name": "backEvolAnim_2_png",
+			"type": "image",
+			"url": "assets/backEvolAnim_2.png"
+		},
+		{
+			"name": "frontEvolAnim_1_png",
+			"type": "image",
+			"url": "assets/frontEvolAnim_1.png"
+		},
+		{
+			"name": "backEvolAnim_1_png",
+			"type": "image",
+			"url": "assets/backEvolAnim_1.png"
+		},
+		{
+			"name": "bombBlockNumLine_png",
+			"type": "image",
+			"url": "assets/bombBlockNumLine.png"
+		},
+		{
+			"name": "animWarp_png",
+			"type": "image",
+			"url": "assets/animWarp.png"
+		},
+		{
+			"name": "blockDieExplosionEffect_png",
+			"type": "image",
+			"url": "assets/blockDieExplosionEffect.png"
+		},
+		{
+			"name": "dieEffect_png",
+			"type": "image",
+			"url": "assets/dieEffect.png"
+		},
+		{
+			"name": "rankingPopup_png",
+			"type": "image",
+			"url": "assets/rankingPopup.png"
+		},
+		{
+			"name": "IronBossBlock_png",
+			"type": "image",
+			"url": "assets/IronBossBlock.png"
+		},
+		{
+			"name": "GGEATextAnim_png",
+			"type": "image",
+			"url": "assets/GGEATextAnim.png"
+		},
+		{
+			"name": "bossCommon_png",
+			"type": "image",
+			"url": "assets/bossCommon.png"
+		},
+		{
+			"name": "default_photo_png",
+			"type": "image",
+			"url": "assets/default_photo.png"
+		},
+		{
+			"name": "ghostBossBlock_png",
+			"type": "image",
+			"url": "assets/ghostBossBlock.png"
+		},
+		{
+			"name": "skipEffect_png",
+			"type": "image",
+			"url": "assets/skipEffect.png"
+		},
+		{
+			"name": "slimeBossBlock_png",
+			"type": "image",
+			"url": "assets/slimeBossBlock.png"
+		},
+		{
+			"name": "bossLine_png",
+			"type": "image",
+			"url": "assets/bossLine.png"
+		},
+		{
+			"name": "bombEffectAnim_png",
+			"type": "image",
+			"url": "assets/bombEffectAnim.png"
+		},
+		{
+			"name": "skilIconSprite_png",
+			"type": "image",
+			"url": "assets/skilIconSprite.png"
+		},
+		{
+			"name": "returnBall_png",
+			"type": "image",
+			"url": "assets/returnBall.png"
+		},
+		{
+			"name": "list_shadow_png",
+			"type": "image",
+			"url": "assets/list_shadow.png"
+		},
+		{
+			"name": "tutorialImage_png",
+			"type": "image",
+			"url": "assets/tutorialImage.png"
+		},
+		{
+			"name": "newRecordAnim_png",
+			"type": "image",
+			"url": "assets/newRecordAnim.png"
+		},
+		{
+			"name": "tutorialHand_png",
+			"type": "image",
+			"url": "assets/tutorialHand.png"
+		},
+		{
+			"name": "thunderAnim_png",
+			"type": "image",
+			"url": "assets/thunderAnim.png"
+		},
+		{
+			"name": "ball_png",
+			"type": "image",
+			"url": "assets/ball.png"
+		},
+		{
+			"name": "fantastic_text_png",
+			"type": "image",
+			"url": "assets/fantastic_text.png"
+		},
+		{
+			"name": "fantastic_dino_right_png",
+			"type": "image",
+			"url": "assets/fantastic_dino_right.png"
+		},
+		{
+			"name": "fantastic_dino_left_png",
+			"type": "image",
+			"url": "assets/fantastic_dino_left.png"
+		},
+		{
+			"name": "popup_png",
+			"type": "image",
+			"url": "assets/popup.png"
+		},
+		{
+			"name": "ballItemAnim_png",
+			"type": "image",
+			"url": "assets/ballItemAnim.png"
+		},
+		{
+			"name": "blockExplosionEffect_png",
+			"type": "image",
+			"url": "assets/blockExplosionEffect.png"
+		},
+		{
+			"name": "effectCollide_png",
+			"type": "image",
+			"url": "assets/effectCollide.png"
+		},
+		{
+			"name": "vThunderAnim_png",
+			"type": "image",
+			"url": "assets/vThunderAnim.png"
+		},
+		{
+			"name": "hThunderAnim_png",
+			"type": "image",
+			"url": "assets/hThunderAnim.png"
+		},
+		{
+			"name": "dino_png",
+			"type": "image",
+			"url": "assets/dino.png"
+		},
+		{
+			"name": "basic_guide_dot_png",
+			"type": "image",
+			"url": "assets/basic_guide_dot.png"
+		},
+		{
+			"name": "arrow_dot04_png",
+			"type": "image",
+			"url": "assets/arrow_dot04.png"
+		},
+		{
+			"name": "arrow_dot03_png",
+			"type": "image",
+			"url": "assets/arrow_dot03.png"
+		},
+		{
+			"name": "arrow_dot02_png",
+			"type": "image",
+			"url": "assets/arrow_dot02.png"
+		},
+		{
+			"name": "arrow_dot01_png",
+			"type": "image",
+			"url": "assets/arrow_dot01.png"
+		},
+		{
+			"name": "effectApocalypse_png",
+			"type": "image",
+			"url": "assets/effectApocalypse.png"
+		},
+		{
+			"name": "balloon_png",
+			"type": "image",
+			"url": "assets/balloon.png"
+		},
+		{
+			"name": "block_png",
+			"type": "image",
+			"url": "assets/block.png"
+		},
+		{
+			"name": "inGameUI_png",
+			"type": "image",
+			"url": "assets/inGameUI.png"
+		},
+		{
+			"name": "popupShop_png",
+			"type": "image",
+			"url": "assets/popupShop.png"
+		},
+		{
+			"name": "shareResource_png",
+			"type": "image",
+			"url": "assets/shareResource.png"
+		},
+		{
+			"name": "default_stic_png",
+			"type": "image",
+			"url": "assets/default_stic.png"
+		},
+		{
+			"name": "default_panta_png",
+			"type": "image",
+			"url": "assets/default_panta.png"
+		},
+		{
+			"name": "default_ahua_png",
+			"type": "image",
+			"url": "assets/default_ahua.png"
+		}
+	]
+}
