@@ -39,8 +39,8 @@ var Preload = /** @class */ (function (_super) {
         // this.load.image('restart', R.URL + 'assets/restart.png')
     };
     Preload.prototype.create = function () {
-        console.log("create");
-        //this.game.state.start('start', true)
+        //console.log("create");
+        this.game.state.start('start', true);
     };
     return Preload;
 }(Phaser.State));

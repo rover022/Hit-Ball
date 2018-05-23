@@ -28,7 +28,7 @@ class Preload extends Phaser.State {
     }
 
     create() {
-        console.log("create");
-        //this.game.state.start('start', true)
+        //console.log("create");
+        this.game.state.start('start', true)
     }
 }
